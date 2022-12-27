@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/my-cv/static/css/main.c26f0d6b.css",
-    "main.js": "/my-cv/static/js/main.426b3d96.js",
-    "static/media/lakh.jpg": "/my-cv/static/media/lakh.ba3d3be22b99bdeebdc6.jpg",
+    "main.js": "/my-cv/static/js/main.9e769bbe.js",
     "static/media/Layth-CV.pdf": "/my-cv/static/media/Layth-CV.09b4fdcc8dad92f57a5f.pdf",
     "static/media/layth.jpg": "/my-cv/static/media/layth.f572c43d00d11c6a4f0a.jpg",
     "static/media/home.jpg": "/my-cv/static/media/home.1ef5dce2dfa353d8a9a6.jpg",
@@ -15,6 +14,7 @@
     "static/media/signin.jpg": "/my-cv/static/media/signin.f2a17482448d8e47a758.jpg",
     "static/media/chart.jpg": "/my-cv/static/media/chart.2e5fa34d562b7f142e6a.jpg",
     "static/media/calendar.jpg": "/my-cv/static/media/calendar.f6ef0eb78cad4a82e745.jpg",
+    "static/media/me.jpg": "/my-cv/static/media/me.7f31e5d598c9f99d50bf.jpg",
     "static/media/redux-svgrepo-com.svg": "/my-cv/static/media/redux-svgrepo-com.738b1008999874a002cbc785fdc89783.svg",
     "static/media/react-router-svgrepo-com.svg": "/my-cv/static/media/react-router-svgrepo-com.2985b9fefbb8abddac4a8b1a5ffd4db1.svg",
     "static/media/material-ui-svgrepo-com.svg": "/my-cv/static/media/material-ui-svgrepo-com.66a9d56f9f4e7fe083df2a01ee2ca3e7.svg",
@@ -25,10 +25,10 @@
     "static/media/javascript-1.svg": "/my-cv/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
     "static/media/react-svgrepo-com.svg": "/my-cv/static/media/react-svgrepo-com.5576c71721b3bde6ea6e659958405c16.svg",
     "main.c26f0d6b.css.map": "/my-cv/static/css/main.c26f0d6b.css.map",
-    "main.426b3d96.js.map": "/my-cv/static/js/main.426b3d96.js.map"
+    "main.9e769bbe.js.map": "/my-cv/static/js/main.9e769bbe.js.map"
   },
   "entrypoints": [
     "static/css/main.c26f0d6b.css",
-    "static/js/main.426b3d96.js"
+    "static/js/main.9e769bbe.js"
   ]
 }
