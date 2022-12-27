@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/my-cv/static/css/main.c26f0d6b.css",
-    "main.js": "/my-cv/static/js/main.58e005f0.js",
+    "main.js": "/my-cv/static/js/main.426b3d96.js",
+    "static/media/lakh.jpg": "/my-cv/static/media/lakh.ba3d3be22b99bdeebdc6.jpg",
     "static/media/Layth-CV.pdf": "/my-cv/static/media/Layth-CV.09b4fdcc8dad92f57a5f.pdf",
     "static/media/layth.jpg": "/my-cv/static/media/layth.f572c43d00d11c6a4f0a.jpg",
     "static/media/home.jpg": "/my-cv/static/media/home.1ef5dce2dfa353d8a9a6.jpg",
@@ -24,10 +25,10 @@
     "static/media/javascript-1.svg": "/my-cv/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
     "static/media/react-svgrepo-com.svg": "/my-cv/static/media/react-svgrepo-com.5576c71721b3bde6ea6e659958405c16.svg",
     "main.c26f0d6b.css.map": "/my-cv/static/css/main.c26f0d6b.css.map",
-    "main.58e005f0.js.map": "/my-cv/static/js/main.58e005f0.js.map"
+    "main.426b3d96.js.map": "/my-cv/static/js/main.426b3d96.js.map"
   },
   "entrypoints": [
     "static/css/main.c26f0d6b.css",
-    "static/js/main.58e005f0.js"
+    "static/js/main.426b3d96.js"
   ]
 }
