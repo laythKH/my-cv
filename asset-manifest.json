@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/my-cv/static/css/main.c26f0d6b.css",
+    "main.js": "/my-cv/static/js/main.58e005f0.js",
+    "static/media/Layth-CV.pdf": "/my-cv/static/media/Layth-CV.09b4fdcc8dad92f57a5f.pdf",
+    "static/media/layth.jpg": "/my-cv/static/media/layth.f572c43d00d11c6a4f0a.jpg",
+    "static/media/home.jpg": "/my-cv/static/media/home.1ef5dce2dfa353d8a9a6.jpg",
+    "static/media/video.jpg": "/my-cv/static/media/video.bc63a592494bf2a3e4a2.jpg",
+    "static/media/Home.jpg": "/my-cv/static/media/Home.f3d42e9917602f30543d.jpg",
+    "static/media/products.jpg": "/my-cv/static/media/products.94a988520f0653d26c5c.jpg",
+    "static/media/homeToggleNav.jpg": "/my-cv/static/media/homeToggleNav.7254bff9996271d60749.jpg",
+    "static/media/tableOfData.jpg": "/my-cv/static/media/tableOfData.e33abb2883cb1a5440e9.jpg",
+    "static/media/payment.jpg": "/my-cv/static/media/payment.1754006dd5400ae27af1.jpg",
+    "static/media/signin.jpg": "/my-cv/static/media/signin.f2a17482448d8e47a758.jpg",
+    "static/media/chart.jpg": "/my-cv/static/media/chart.2e5fa34d562b7f142e6a.jpg",
+    "static/media/calendar.jpg": "/my-cv/static/media/calendar.f6ef0eb78cad4a82e745.jpg",
+    "static/media/redux-svgrepo-com.svg": "/my-cv/static/media/redux-svgrepo-com.738b1008999874a002cbc785fdc89783.svg",
+    "static/media/react-router-svgrepo-com.svg": "/my-cv/static/media/react-router-svgrepo-com.2985b9fefbb8abddac4a8b1a5ffd4db1.svg",
+    "static/media/material-ui-svgrepo-com.svg": "/my-cv/static/media/material-ui-svgrepo-com.66a9d56f9f4e7fe083df2a01ee2ca3e7.svg",
+    "static/media/jwt-3.svg": "/my-cv/static/media/jwt-3.56f1e8c2e3c6e934664375ec002ea50d.svg",
+    "index.html": "/my-cv/index.html",
+    "static/media/css-3.svg": "/my-cv/static/media/css-3.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "static/media/html-1.svg": "/my-cv/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
+    "static/media/javascript-1.svg": "/my-cv/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
+    "static/media/react-svgrepo-com.svg": "/my-cv/static/media/react-svgrepo-com.5576c71721b3bde6ea6e659958405c16.svg",
+    "main.c26f0d6b.css.map": "/my-cv/static/css/main.c26f0d6b.css.map",
+    "main.58e005f0.js.map": "/my-cv/static/js/main.58e005f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c26f0d6b.css",
+    "static/js/main.58e005f0.js"
+  ]
+}
