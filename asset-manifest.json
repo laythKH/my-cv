@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-cv/static/css/main.c26f0d6b.css",
-    "main.js": "/my-cv/static/js/main.37bc55b4.js",
+    "main.js": "/my-cv/static/js/main.48985e83.js",
     "static/media/Layth-CV.pdf": "/my-cv/static/media/Layth-CV.09b4fdcc8dad92f57a5f.pdf",
     "static/media/home.jpg": "/my-cv/static/media/home.1ef5dce2dfa353d8a9a6.jpg",
     "static/media/video.jpg": "/my-cv/static/media/video.bc63a592494bf2a3e4a2.jpg",
@@ -24,10 +24,10 @@
     "static/media/javascript-1.svg": "/my-cv/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
     "static/media/react-svgrepo-com.svg": "/my-cv/static/media/react-svgrepo-com.5576c71721b3bde6ea6e659958405c16.svg",
     "main.c26f0d6b.css.map": "/my-cv/static/css/main.c26f0d6b.css.map",
-    "main.37bc55b4.js.map": "/my-cv/static/js/main.37bc55b4.js.map"
+    "main.48985e83.js.map": "/my-cv/static/js/main.48985e83.js.map"
   },
   "entrypoints": [
     "static/css/main.c26f0d6b.css",
-    "static/js/main.37bc55b4.js"
+    "static/js/main.48985e83.js"
   ]
 }
